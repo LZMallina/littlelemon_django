@@ -44,3 +44,16 @@
 
 > deactivate
 
+## Python commands 
+$ python manage.py runserver //-> start port 8000
+
+$ python manage.py makemigrations //-> prepare to upload data to database
+
+$ python manage.py migrate //-> commit data to database
+
+$ python manage.py createsuperuser //-> create admin user login  
+
+## Update database on admin site
+http://127.0.0.1:8000/admin
+
+
